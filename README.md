@@ -1,24 +1,60 @@
-# Pseudocódigos Pseint
+# Repositorio para pseudocódigos
 
-Este repositorio contiene una colección de pseudocódigos hechos en Pseint para aprender los conceptos básicos de la programación. El código incluye ejemplos de variables, tipos de datos, condicionales, bucles, métodos y clases.
+Este repositorio contiene pseudocódigos de diferentes algoritmos y problemas de programación. Los pseudocódigos están escritos en pseint y raptor.
+
+## Descripción
+
+Este repositorio es una biblioteca de pseudocódigos que puede ser utilizada por estudiantes, desarrolladores y profesionales de la informática. Los pseudocódigos están escritos en un lenguaje claro y conciso, y están documentados para facilitar su comprensión.
 
 ## Contenido
 
-El repositorio está dividido en las siguientes categorías:
+El repositorio contiene pseudocódigos de los siguientes temas:
 
-* **Fundamentos:** Esta categoría incluye pseudocódigos sobre los conceptos básicos de Pseint, como variables, tipos de datos, operadores y expresiones.
-* **Control de flujo:** Esta categoría incluye pseudocódigos sobre el control de flujo, como condicionales, bucles y excepciones.
-* **Objetos y clases:** Esta categoría incluye pseudocódigos sobre objetos y clases, como métodos, atributos y constructores.
-* **Otros:** Esta categoría incluye pseudocódigos sobre temas avanzados, como programación funcional, concurrencia y sockets.
+* **Algoritmos básicos:** suma, resta, multiplicación, división, etc.
+* **Estructuras de datos:** listas, pilas, colas, árboles, etc.
+* **Algoritmos avanzados:** ordenamiento, búsqueda, grafos, etc.
+* **Problemas de programación:** problemas clásicos de programación, como la búsqueda de un elemento en un arreglo, el ordenamiento de un arreglo, etc.
+
+## Requisitos
+
+Para usar este repositorio, se requiere lo siguiente:
+
+* El programa [Pseint](https://pseint.sourceforge.net/)
+* El programa [Raptor](https://raptor.martincarlisle.com/)
+
+## Instrucciones
+
+Para contribuir al repositorio, siga los siguientes pasos:
+
+1. Cree una cuenta de GitHub.
+2. Clone el repositorio en su computadora.
+3. Cree una nueva carpeta para su pseudocódigo.
+4. Escriba su pseudocódigo en la nueva carpeta.
+5. Agregue su pseudocódigo al repositorio.
 
 ## Licencia
 
-El código está licenciado bajo la [Licencia Pública General de GNU (GPL) v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+Este repositorio está bajo la licencia GNU.
 
-## Contribuciones
+## Aclaraciones
 
-Se aceptan contribuciones de todos los usuarios. Si tienes un pseudocódigo que crees que sería útil para otros, por favor, envíalo como un pull request.
+* Los pseudocódigos deben estar escritos en pseint o raptor.
+* Los pseudocódigos deben ser claros y concisos.
+* Los pseudocódigos deben ser documentados.
 
-## Créditos
 
-Este repositorio fue creado por [FreddMX](https://github.com/FreddMX).
+## Mejoras
+
+* La descripción del repositorio es más detallada y proporciona más información sobre el propósito del repositorio.
+* El contenido del repositorio está organizado en una lista para facilitar la navegación.
+
+
+## Estilo
+
+* Los encabezados y los subtítulos están formateados de manera uniforme.
+* El texto está bien espaciado.
+
+
+## Licencia
+
+Este proyecto está bajo la Licencia GNU. Para obtener más detalles, consulta el archivo [LICENSE](https://github.com/FreddMX/Pseudocodigos/blob/main/LICENSE).
