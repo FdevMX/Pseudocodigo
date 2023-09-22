@@ -21,4 +21,4 @@ Se aceptan contribuciones de todos los usuarios. Si tienes un pseudocódigo que 
 
 ## Créditos
 
-Este repositorio fue creado por [FreddMX].
+Este repositorio fue creado por [FreddMX](https://github.com/FreddMX).
